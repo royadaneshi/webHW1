@@ -1,2 +1,2 @@
 # webHW1
-HW1 for web course
+distributed web service with grpc protocol.
